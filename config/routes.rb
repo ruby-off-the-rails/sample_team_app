@@ -9,6 +9,8 @@ Rails.application.routes.draw do
   namespace :api do
     get "/pages" => "pages#index"
     get "/cars" => "cars#index"
+    get "/aria" => "aria#show"
+    get "/random" => "random#index"
     get "/examples" => "examples#index"
 
   end
