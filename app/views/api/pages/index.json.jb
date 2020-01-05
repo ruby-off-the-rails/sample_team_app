@@ -1,7 +1,8 @@
 {
-  name: "brian",
-  name: "jeff",
-  name2: "joyce",
-  name: "keelana",
-  name: "aria"
+  name1: "brian",
+  name2: "jeff",
+  name3: "joyce",
+  name4: "keelana",
+  name5: "aria",
+  name6: "alice"
 }
